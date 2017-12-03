@@ -41,7 +41,7 @@ yearOne.head()
 # In[818]:
 
 
-# def calc_gpa(row):
+# def calc_gpa(as):
 #     data = [r for r in row]
 #     print(data)
 #     return np.round(np.mean(data), 2)
